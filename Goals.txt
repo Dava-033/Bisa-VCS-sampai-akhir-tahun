@@ -1,0 +1,3 @@
+Goals akhir Tahun
+- Bisa Memahami VCS
+- Menguasai Git and GitHub
